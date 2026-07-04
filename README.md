@@ -34,9 +34,6 @@ Among these models, **Gradient Boosting** achieved the best overall performance 
 * ROC-AUC: **0.8652**
 
 ---
-## Research Paper 
-   Research_paper.pdf
----
 ## Technologies Used
 
 * Python
