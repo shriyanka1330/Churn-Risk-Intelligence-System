@@ -1,0 +1,35 @@
+{
+    "best_model_name": "Gradient Boosting",
+    "features": {
+        "numerical": [
+            "CreditScore",
+            "Age",
+            "Tenure",
+            "Balance",
+            "NumOfProducts",
+            "HasCrCard",
+            "IsActiveMember",
+            "EstimatedSalary",
+            "Balance_Salary_Ratio",
+            "Product_Density",
+            "Active_Product_Interaction",
+            "Age_Tenure_Interaction"
+        ],
+        "categorical": [
+            "Geography",
+            "Gender"
+        ]
+    },
+    "best_metrics": {
+        "Train Accuracy": 0.895625,
+        "Test Accuracy": 0.862,
+        "Train Precision": 0.8739416745061148,
+        "Test Precision": 0.7434944237918215,
+        "Train Recall": 0.5699386503067485,
+        "Test Recall": 0.4914004914004914,
+        "Train F1": 0.6899368733754178,
+        "Test F1": 0.591715976331361,
+        "Train ROC-AUC": 0.9291109591547804,
+        "Test ROC-AUC": 0.8652257804800176
+    }
+}
