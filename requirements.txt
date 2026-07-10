@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn
 plotly
 seaborn
 matplotlib
+scikit-learn
 joblib
 openpyxl
 shap
@@ -12,3 +12,4 @@ xgboost
 lightgbm
 catboost
 scipy
+imbalanced-learn
